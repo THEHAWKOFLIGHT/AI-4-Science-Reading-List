@@ -2,7 +2,7 @@
 
 ## Fundemental MD
 
-[Understanding Molecular Simulation](https://www.eng.uc.edu/~beaucag/Classes/AdvancedMaterialsThermodynamics/Books/[Computational science (San Diego, Calif.)] Daan Frenkel_ Berend Smit - Understanding molecular simulation _ from algorithms to applications (2002, Academic Press ) - libgen.lc.pdf)
+[Understanding Molecular Simulation](https://www.eng.uc.edu/~beaucag/Classes/AdvancedMaterialsThermodynamics/Books/%5BComputational%20science%20(San%20Diego%2C%20Calif.)%5D%20Daan%20Frenkel_%20Berend%20Smit%20-%20Understanding%20molecular%20simulation%20_%20from%20algorithms%20to%20applications%20(2002%2C%20Academic%20Press%20)%20-%20libgen.lc.pdf)
 
 ## Stat Mech Lectures
 
@@ -17,12 +17,12 @@ If we start at some density, and noise forward, there are deterministic equation
 
 ### SDEs
 Easy SDE Book:
-[Applied SDEs](https://users.aalto.fi/~asolin/sde-book/sde-book.pdf)
+- [Applied SDEs](https://users.aalto.fi/~asolin/sde-book/sde-book.pdf)
 
 Quintessential books about SDEs covering in depth Ito's Lemma, Girsanovs, Path Measure, Feynman Kac, Stopping Times, Control, Filtering
-[Stochastic Differential Equations - Oksendale](https://www.google.com/search?q=stochastic+differential+equations+oksendal&sca_esv=64c7c2e5e44b8d39&sxsrf=AE3TifO1f6cBfRWmKPW6Nx1NvYl8bXZLfA%3A1761366373773&source=hp&ei=ZVH8aIaCLM-i0PEPiKL8QA&iflsig=AOw8s4IAAAAAaPxfddEAa7sQyQTYhJBra_SDxJaRRMhF&gs_ssp=eJzj4tVP1zc0TMsqriwxjS8wYPTSKi7JT85ILC7JTFZIyUxLSy1KzSvJTMxRSC0sTSzJzM8rVsjPLk7NS0nMAQBuHBXE&oq=stochastic+differential&gs_lp=Egdnd3Mtd2l6IhdzdG9jaGFzdGljIGRpZmZlcmVudGlhbCoCCAIyChAjGIAEGCcYigUyBBAjGCcyChAuGIAEGCcYigUyBBAjGCcyCxAAGIAEGJECGIoFMgsQLhiABBiRAhiKBTIFEAAYgAQyBRAAGIAEMgUQLhiABDIFEAAYgARI1h5QAFi5EXAAeACQAQGYAeUBoAHHF6oBBjMuMTkuMbgBAcgBAPgBAZgCFqACsRfCAhEQLhiABBixAxjRAxiDARjHAcICCxAuGIAEGNEDGMcBwgILEAAYgAQYsQMYgwHCAg0QIxjwBRiABBgnGIoFwgIKEAAYgAQYQxiKBcICEBAAGIAEGLEDGEMYgwEYigXCAgsQLhiABBixAxiDAcICDhAuGIAEGLEDGNEDGMcBwgIQEC4YgAQYQxjHARiKBRivAcICExAuGIAEGLEDGNEDGEMYxwEYigXCAg4QABiABBiRAhixAxiKBcICCBAAGIAEGLEDwgINEAAYgAQYsQMYQxiKBcICDhAuGIAEGJECGNQCGIoFmAMAkgcGMS4yMC4xoAfZ4AKyBwYxLjIwLjG4B7EXwgcIMC4xLjIwLjHIB1o&sclient=gws-wiz)
-[Shreve Stochastic Calculus](https://cms.dm.uba.ar/academico/materias/2docuat2016/analisis_cuantitativo_en_finanzas/Steve_ShreveStochastic_Calculus_for_Finance_II.pdf)
+- [Stochastic Differential Equations - Oksendale](https://www.google.com/search?q=stochastic+differential+equations+oksendal&sca_esv=64c7c2e5e44b8d39&sxsrf=AE3TifO1f6cBfRWmKPW6Nx1NvYl8bXZLfA%3A1761366373773&source=hp&ei=ZVH8aIaCLM-i0PEPiKL8QA&iflsig=AOw8s4IAAAAAaPxfddEAa7sQyQTYhJBra_SDxJaRRMhF&gs_ssp=eJzj4tVP1zc0TMsqriwxjS8wYPTSKi7JT85ILC7JTFZIyUxLSy1KzSvJTMxRSC0sTSzJzM8rVsjPLk7NS0nMAQBuHBXE&oq=stochastic+differential&gs_lp=Egdnd3Mtd2l6IhdzdG9jaGFzdGljIGRpZmZlcmVudGlhbCoCCAIyChAjGIAEGCcYigUyBBAjGCcyChAuGIAEGCcYigUyBBAjGCcyCxAAGIAEGJECGIoFMgsQLhiABBiRAhiKBTIFEAAYgAQyBRAAGIAEMgUQLhiABDIFEAAYgARI1h5QAFi5EXAAeACQAQGYAeUBoAHHF6oBBjMuMTkuMbgBAcgBAPgBAZgCFqACsRfCAhEQLhiABBixAxjRAxiDARjHAcICCxAuGIAEGNEDGMcBwgILEAAYgAQYsQMYgwHCAg0QIxjwBRiABBgnGIoFwgIKEAAYgAQYQxiKBcICEBAAGIAEGLEDGEMYgwEYigXCAgsQLhiABBixAxiDAcICDhAuGIAEGLEDGNEDGMcBwgIQEC4YgAQYQxjHARiKBRivAcICExAuGIAEGLEDGNEDGEMYxwEYigXCAg4QABiABBiRAhixAxiKBcICCBAAGIAEGLEDwgINEAAYgAQYsQMYQxiKBcICDhAuGIAEGJECGNQCGIoFmAMAkgcGMS4yMC4xoAfZ4AKyBwYxLjIwLjG4B7EXwgcIMC4xLjIwLjHIB1o&sclient=gws-wiz)
+- [Shreve Stochastic Calculus](https://cms.dm.uba.ar/academico/materias/2docuat2016/analisis_cuantitativo_en_finanzas/Steve_ShreveStochastic_Calculus_for_Finance_II.pdf)
 
 Deeper resources primarily geared towards stochastic control theory (basically RL but suited for SDE dynamics):
-Deterministic Dynamics: [Dynamic Programming](https://www.dl.behinehyab.com/Ebooks/DP/D001_814807_www.behinehyab.com.pdf)
-Stochastic Dynamics: [Continuous Time Stochastic Control Theory](https://www.maths.dur.ac.uk/users/andrew.l.allan/projects_2024/Stochastic_Optimization.pdf)
+- Deterministic Dynamics: [Dynamic Programming](https://www.dl.behinehyab.com/Ebooks/DP/D001_814807_www.behinehyab.com.pdf)
+- Stochastic Dynamics: [Continuous Time Stochastic Control Theory](https://www.maths.dur.ac.uk/users/andrew.l.allan/projects_2024/Stochastic_Optimization.pdf)
